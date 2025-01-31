@@ -1,0 +1,1872 @@
+{
+  "timestamp": "2025-01-30T21:01:31.069Z",
+  "totalStops": 305,
+  "uniqueStops": 234,
+  "stopsWithLocation": 301,
+  "routes": [
+    {
+      "line": "L",
+      "name": "TARAVAL",
+      "stopCount": 52,
+      "stops": [
+        {
+          "id": "16994",
+          "name": "Metro Montgomery Station/Outbound",
+          "lat": "37.788791",
+          "long": "-122.402127"
+        },
+        {
+          "id": "16995",
+          "name": "Metro Powell Station/Outbound",
+          "lat": "37.7843",
+          "long": "-122.407822"
+        },
+        {
+          "id": "16997",
+          "name": "Metro Civic Center Station/Outbd",
+          "lat": "37.77924",
+          "long": "-122.414223"
+        },
+        {
+          "id": "16998",
+          "name": "Metro Church Station/Outbound",
+          "lat": "37.767327",
+          "long": "-122.429321"
+        },
+        {
+          "id": "16993",
+          "name": "Forest Hill Station Outbound",
+          "lat": "37.74817",
+          "long": "-122.459192"
+        },
+        {
+          "id": "18136",
+          "name": "Ulloa St & 14th Ave",
+          "lat": "37.7415",
+          "long": "-122.469969"
+        },
+        {
+          "id": "13266",
+          "name": "15th Ave & Taraval St",
+          "lat": "37.743124",
+          "long": "-122.471297"
+        },
+        {
+          "id": "16620",
+          "name": "Taraval St & 23rd Ave",
+          "lat": "37.742872",
+          "long": "-122.48045"
+        },
+        {
+          "id": "16622",
+          "name": "Taraval St & 26th Ave",
+          "lat": "37.742777",
+          "long": "-122.483083"
+        },
+        {
+          "id": "16626",
+          "name": "Taraval St & 30th Ave",
+          "lat": "37.742588",
+          "long": "-122.487337"
+        },
+        {
+          "id": "16628",
+          "name": "Taraval St & 32nd Ave",
+          "lat": "37.742491",
+          "long": "-122.489505"
+        },
+        {
+          "id": "16632",
+          "name": "Taraval St & 40th Ave",
+          "lat": "37.742124",
+          "long": "-122.498055"
+        },
+        {
+          "id": "16634",
+          "name": "Taraval St & 42nd Ave",
+          "lat": "37.742021",
+          "long": "-122.500202"
+        },
+        {
+          "id": "16636",
+          "name": "Taraval St & 44th Ave",
+          "lat": "37.741924",
+          "long": "-122.502346"
+        },
+        {
+          "id": "16638",
+          "name": "Taraval St & 46th Ave",
+          "lat": "37.741823",
+          "long": "-122.50449"
+        },
+        {
+          "id": "13600",
+          "name": "46th Ave & Ulloa St",
+          "lat": "37.739998",
+          "long": "-122.504579"
+        },
+        {
+          "id": "13602",
+          "name": "46th Ave & Vicente St",
+          "lat": "37.738142",
+          "long": "-122.50444"
+        },
+        {
+          "id": "17217",
+          "name": "Metro Embarcadero Station",
+          "lat": "37.79259",
+          "long": "-122.397268"
+        },
+        {
+          "id": "16996",
+          "name": "Van Ness Station Outbound",
+          "lat": "37.775234",
+          "long": "-122.41934"
+        },
+        {
+          "id": "16991",
+          "name": "Metro Castro Station/Outbound",
+          "lat": "37.762683",
+          "long": "-122.435289"
+        },
+        {
+          "id": "16739",
+          "name": "West Portal Station",
+          "lat": "37.741391",
+          "long": "-122.46553"
+        },
+        {
+          "id": "16616",
+          "name": "Taraval St & 19th Ave",
+          "lat": "37.74311",
+          "long": "-122.475444"
+        },
+        {
+          "id": "16640",
+          "name": "Taraval St & Sunset Blvd",
+          "lat": "37.742287",
+          "long": "-122.494361"
+        },
+        {
+          "id": "17869",
+          "name": "47th Ave & Cutler Ave",
+          "lat": "37.736991",
+          "long": "-122.505413"
+        },
+        {
+          "id": "13603",
+          "name": "46th Ave & Vicente St",
+          "lat": "37.737973",
+          "long": "-122.504268"
+        },
+        {
+          "id": "13601",
+          "name": "46th Ave & Ulloa St",
+          "lat": "37.739829",
+          "long": "-122.504407"
+        },
+        {
+          "id": "13599",
+          "name": "46th Ave & Taraval St",
+          "lat": "37.741685",
+          "long": "-122.504534"
+        },
+        {
+          "id": "16637",
+          "name": "Taraval St & 44th Ave",
+          "lat": "37.741804",
+          "long": "-122.502606"
+        },
+        {
+          "id": "16635",
+          "name": "Taraval St & 42nd Ave",
+          "lat": "37.7419",
+          "long": "-122.500461"
+        },
+        {
+          "id": "16633",
+          "name": "Taraval St & 40th Ave",
+          "lat": "37.74199",
+          "long": "-122.498316"
+        },
+        {
+          "id": "16629",
+          "name": "Taraval St & 32nd Ave",
+          "lat": "37.742402",
+          "long": "-122.489801"
+        },
+        {
+          "id": "16627",
+          "name": "Taraval St & 30th Ave",
+          "lat": "37.742494",
+          "long": "-122.487681"
+        },
+        {
+          "id": "16623",
+          "name": "Taraval St & 26th Ave",
+          "lat": "37.742683",
+          "long": "-122.483385"
+        },
+        {
+          "id": "16619",
+          "name": "Taraval St & 22nd Ave",
+          "lat": "37.74289",
+          "long": "-122.478426"
+        },
+        {
+          "id": "16615",
+          "name": "Taraval St & 17th Ave",
+          "lat": "37.743131",
+          "long": "-122.473306"
+        },
+        {
+          "id": "18137",
+          "name": "Ulloa St & 14th Ave",
+          "lat": "37.741356",
+          "long": "-122.470211"
+        },
+        {
+          "id": "15730",
+          "name": "Metro Forest Hill Station/Downtown",
+          "lat": "37.748351",
+          "long": "-122.458623"
+        },
+        {
+          "id": "15726",
+          "name": "Metro Church Station/Downtown",
+          "lat": "37.767194",
+          "long": "-122.429168"
+        },
+        {
+          "id": "15727",
+          "name": "Metro Civic Center Station/Downtn",
+          "lat": "37.779712",
+          "long": "-122.413347"
+        },
+        {
+          "id": "15417",
+          "name": "Metro Powell Station/Downtown",
+          "lat": "37.784653",
+          "long": "-122.407086"
+        },
+        {
+          "id": "15731",
+          "name": "Metro Montgomery Station/Downtown",
+          "lat": "37.789219",
+          "long": "-122.401351"
+        },
+        {
+          "id": "16932",
+          "name": "Wawona/46th Ave /Sf Zoo",
+          "lat": "37.736125",
+          "long": "-122.504351"
+        },
+        {
+          "id": "16641",
+          "name": "Taraval St & Sunset Blvd",
+          "lat": "37.742188",
+          "long": "-122.49451"
+        },
+        {
+          "id": "16617",
+          "name": "Taraval St & 19th Ave",
+          "lat": "37.742971",
+          "long": "-122.475821"
+        },
+        {
+          "id": "16740",
+          "name": "West Portal Station",
+          "lat": "37.741518",
+          "long": "-122.465216"
+        },
+        {
+          "id": "15728",
+          "name": "Metro Castro Station/Downtown",
+          "lat": "37.76262",
+          "long": "-122.435231"
+        },
+        {
+          "id": "15419",
+          "name": "Metro Van Ness Station",
+          "lat": "37.775127",
+          "long": "-122.419252"
+        },
+        {
+          "id": "16992",
+          "name": "Metro Embarcadero Station",
+          "lat": "37.793134",
+          "long": "-122.396431"
+        },
+        {
+          "id": "14509",
+          "name": "The Embarcadero & Folsom St",
+          "lat": "37.790481",
+          "long": "-122.389692"
+        },
+        {
+          "id": "16744",
+          "name": "Ulloa St & West Portal Ave",
+          "lat": "37.741009",
+          "long": "-122.466167"
+        },
+        {
+          "id": "16738",
+          "name": "Ulloa St & Lenox Way",
+          "lat": "37.741125",
+          "long": "-122.466155"
+        },
+        {
+          "id": "14510",
+          "name": "The Embarcadero & Folsom St",
+          "lat": "37.790749",
+          "long": "-122.389841"
+        }
+      ]
+    },
+    {
+      "line": "K",
+      "name": "INGLESIDE",
+      "stopCount": 42,
+      "stops": [
+        {
+          "id": "15784",
+          "name": "Ocean Ave/Ccsf Pedestrian Bridge",
+          "lat": "37.72304",
+          "long": "-122.451448"
+        },
+        {
+          "id": "15794",
+          "name": "Ocean Ave & Lee St",
+          "lat": "37.723459",
+          "long": "-122.453999"
+        },
+        {
+          "id": "15797",
+          "name": "Ocean Ave & Miramar Ave",
+          "lat": "37.724387",
+          "long": "-122.458077"
+        },
+        {
+          "id": "15787",
+          "name": "Ocean Ave & Dorado Ter",
+          "lat": "37.724957",
+          "long": "-122.461059"
+        },
+        {
+          "id": "15788",
+          "name": "Ocean Ave & Fairfield Way",
+          "lat": "37.726008",
+          "long": "-122.464072"
+        },
+        {
+          "id": "15779",
+          "name": "Ocean Ave & Aptos Ave",
+          "lat": "37.728285",
+          "long": "-122.467561"
+        },
+        {
+          "id": "15806",
+          "name": "Ocean Ave & San Leandro Way",
+          "lat": "37.729989",
+          "long": "-122.469097"
+        },
+        {
+          "id": "17113",
+          "name": "Junipero Serra Blvd & Ocean Ave",
+          "lat": "37.731628",
+          "long": "-122.471707"
+        },
+        {
+          "id": "16898",
+          "name": "West Portal Ave & 14th Ave",
+          "lat": "37.737859",
+          "long": "-122.469042"
+        },
+        {
+          "id": "17778",
+          "name": "San Jose Ave & Geneva Ave",
+          "lat": "37.721238",
+          "long": "-122.446222"
+        },
+        {
+          "id": "17109",
+          "name": "West Portal/Sloat/St Francis Circle",
+          "lat": "37.734825",
+          "long": "-122.471446"
+        },
+        {
+          "id": "16740",
+          "name": "West Portal Station",
+          "lat": "37.741518",
+          "long": "-122.465216"
+        },
+        {
+          "id": "17114",
+          "name": "Junipero Serra Blvd & Ocean Ave",
+          "lat": "37.731271",
+          "long": "-122.471818"
+        },
+        {
+          "id": "15807",
+          "name": "Ocean Ave & San Leandro Way",
+          "lat": "37.729945",
+          "long": "-122.469475"
+        },
+        {
+          "id": "15780",
+          "name": "Ocean Ave & Aptos Ave",
+          "lat": "37.728383",
+          "long": "-122.467871"
+        },
+        {
+          "id": "15808",
+          "name": "Ocean Ave & Victoria St",
+          "lat": "37.726029",
+          "long": "-122.464337"
+        },
+        {
+          "id": "15793",
+          "name": "Ocean Ave & Jules Ave",
+          "lat": "37.724955",
+          "long": "-122.46139"
+        },
+        {
+          "id": "15798",
+          "name": "Ocean Ave & Miramar Ave",
+          "lat": "37.724262",
+          "long": "-122.458306"
+        },
+        {
+          "id": "15795",
+          "name": "Ocean Ave & Lee St",
+          "lat": "37.723397",
+          "long": "-122.454423"
+        },
+        {
+          "id": "15785",
+          "name": "Ocean Ave/Ccsf Pedestrian Bridge",
+          "lat": "37.722947",
+          "long": "-122.450866"
+        },
+        {
+          "id": "16503",
+          "name": "West Portal/Sloat/St Francis Circle",
+          "lat": "37.734807",
+          "long": "-122.471618"
+        },
+        {
+          "id": "15418",
+          "name": "Balboa Park BART/Mezzanine Level",
+          "lat": "37.721809",
+          "long": "-122.447425"
+        },
+        {
+          "id": "16994",
+          "name": "Metro Montgomery Station/Outbound",
+          "lat": "37.788791",
+          "long": "-122.402127"
+        },
+        {
+          "id": "16995",
+          "name": "Metro Powell Station/Outbound",
+          "lat": "37.7843",
+          "long": "-122.407822"
+        },
+        {
+          "id": "16997",
+          "name": "Metro Civic Center Station/Outbd",
+          "lat": "37.77924",
+          "long": "-122.414223"
+        },
+        {
+          "id": "16998",
+          "name": "Metro Church Station/Outbound",
+          "lat": "37.767327",
+          "long": "-122.429321"
+        },
+        {
+          "id": "16993",
+          "name": "Forest Hill Station Outbound",
+          "lat": "37.74817",
+          "long": "-122.459192"
+        },
+        {
+          "id": "17125",
+          "name": "West Portal Ave & 14th Ave",
+          "lat": "37.738064",
+          "long": "-122.468984"
+        },
+        {
+          "id": "17217",
+          "name": "Metro Embarcadero Station",
+          "lat": "37.79259",
+          "long": "-122.397268"
+        },
+        {
+          "id": "16996",
+          "name": "Van Ness Station Outbound",
+          "lat": "37.775234",
+          "long": "-122.41934"
+        },
+        {
+          "id": "16991",
+          "name": "Metro Castro Station/Outbound",
+          "lat": "37.762683",
+          "long": "-122.435289"
+        },
+        {
+          "id": "16739",
+          "name": "West Portal Station",
+          "lat": "37.741391",
+          "long": "-122.46553"
+        },
+        {
+          "id": "14510",
+          "name": "The Embarcadero & Folsom St",
+          "lat": "37.790749",
+          "long": "-122.389841"
+        },
+        {
+          "id": "15730",
+          "name": "Metro Forest Hill Station/Downtown",
+          "lat": "37.748351",
+          "long": "-122.458623"
+        },
+        {
+          "id": "15726",
+          "name": "Metro Church Station/Downtown",
+          "lat": "37.767194",
+          "long": "-122.429168"
+        },
+        {
+          "id": "15727",
+          "name": "Metro Civic Center Station/Downtn",
+          "lat": "37.779712",
+          "long": "-122.413347"
+        },
+        {
+          "id": "15417",
+          "name": "Metro Powell Station/Downtown",
+          "lat": "37.784653",
+          "long": "-122.407086"
+        },
+        {
+          "id": "15731",
+          "name": "Metro Montgomery Station/Downtown",
+          "lat": "37.789219",
+          "long": "-122.401351"
+        },
+        {
+          "id": "15728",
+          "name": "Metro Castro Station/Downtown",
+          "lat": "37.76262",
+          "long": "-122.435231"
+        },
+        {
+          "id": "15419",
+          "name": "Metro Van Ness Station",
+          "lat": "37.775127",
+          "long": "-122.419252"
+        },
+        {
+          "id": "16992",
+          "name": "Metro Embarcadero Station",
+          "lat": "37.793134",
+          "long": "-122.396431"
+        },
+        {
+          "id": "14509",
+          "name": "The Embarcadero & Folsom St",
+          "lat": "37.790481",
+          "long": "-122.389692"
+        }
+      ]
+    },
+    {
+      "line": "N",
+      "name": "JUDAH",
+      "stopCount": 64,
+      "stops": [
+        {
+          "id": "15237",
+          "name": "King St & 2nd St",
+          "lat": "37.779621",
+          "long": "-122.389824"
+        },
+        {
+          "id": "17145",
+          "name": "The Embarcadero & Brannan St",
+          "lat": "37.784627",
+          "long": "-122.387977"
+        },
+        {
+          "id": "16994",
+          "name": "Metro Montgomery Station/Outbound",
+          "lat": "37.788791",
+          "long": "-122.402127"
+        },
+        {
+          "id": "16995",
+          "name": "Metro Powell Station/Outbound",
+          "lat": "37.7843",
+          "long": "-122.407822"
+        },
+        {
+          "id": "16997",
+          "name": "Metro Civic Center Station/Outbd",
+          "lat": "37.77924",
+          "long": "-122.414223"
+        },
+        {
+          "id": "14447",
+          "name": "Duboce Ave & Church St",
+          "lat": "37.769472",
+          "long": "-122.429408"
+        },
+        {
+          "id": "17252",
+          "name": "Duboce St/Noe St/Duboce Park",
+          "lat": "37.769357",
+          "long": "-122.433557"
+        },
+        {
+          "id": "13909",
+          "name": "Carl St & Cole St",
+          "lat": "37.765863",
+          "long": "-122.449804"
+        },
+        {
+          "id": "13914",
+          "name": "Carl St & Stanyan St",
+          "lat": "37.765495",
+          "long": "-122.45259"
+        },
+        {
+          "id": "15118",
+          "name": "Irving St & 2nd Ave",
+          "lat": "37.764441",
+          "long": "-122.458643"
+        },
+        {
+          "id": "18032",
+          "name": "Irving St & 6th Ave",
+          "lat": "37.764244",
+          "long": "-122.462987"
+        },
+        {
+          "id": "17999",
+          "name": "9th Ave & Irving St",
+          "lat": "37.763307",
+          "long": "-122.466344"
+        },
+        {
+          "id": "15193",
+          "name": "Judah St & 9th Ave",
+          "lat": "37.762227",
+          "long": "-122.466688"
+        },
+        {
+          "id": "15195",
+          "name": "Judah St & 12th Ave",
+          "lat": "37.762069",
+          "long": "-122.469324"
+        },
+        {
+          "id": "15219",
+          "name": "Judah St & Funston Ave",
+          "lat": "37.762075",
+          "long": "-122.470329"
+        },
+        {
+          "id": "15198",
+          "name": "Judah St & 16th Ave",
+          "lat": "37.76194",
+          "long": "-122.473632"
+        },
+        {
+          "id": "15202",
+          "name": "Judah St & 23rd Ave",
+          "lat": "37.761547",
+          "long": "-122.481164"
+        },
+        {
+          "id": "15203",
+          "name": "Judah St & 25th Ave",
+          "lat": "37.761452",
+          "long": "-122.4833"
+        },
+        {
+          "id": "15205",
+          "name": "Judah St & 28th Ave",
+          "lat": "37.76131",
+          "long": "-122.48651"
+        },
+        {
+          "id": "15207",
+          "name": "Judah St & 31st Ave",
+          "lat": "37.761172",
+          "long": "-122.489719"
+        },
+        {
+          "id": "15209",
+          "name": "Judah St & 34th Ave",
+          "lat": "37.761028",
+          "long": "-122.49293"
+        },
+        {
+          "id": "15211",
+          "name": "Judah St & 40th Ave",
+          "lat": "37.760743",
+          "long": "-122.499359"
+        },
+        {
+          "id": "15213",
+          "name": "Judah St & 43rd Ave",
+          "lat": "37.760598",
+          "long": "-122.502574"
+        },
+        {
+          "id": "15215",
+          "name": "Judah St & 46th Ave",
+          "lat": "37.760493",
+          "long": "-122.505832"
+        },
+        {
+          "id": "15240",
+          "name": "King St & 4th St",
+          "lat": "37.776269",
+          "long": "-122.394082"
+        },
+        {
+          "id": "14510",
+          "name": "The Embarcadero & Folsom St",
+          "lat": "37.790749",
+          "long": "-122.389841"
+        },
+        {
+          "id": "17217",
+          "name": "Metro Embarcadero Station",
+          "lat": "37.79259",
+          "long": "-122.397268"
+        },
+        {
+          "id": "16996",
+          "name": "Van Ness Station Outbound",
+          "lat": "37.775234",
+          "long": "-122.41934"
+        },
+        {
+          "id": "13912",
+          "name": "Carl St & Hillway Ave",
+          "lat": "37.765003",
+          "long": "-122.456561"
+        },
+        {
+          "id": "15199",
+          "name": "Judah St & 19th Ave",
+          "lat": "37.761743",
+          "long": "-122.476921"
+        },
+        {
+          "id": "15224",
+          "name": "Judah St & Sunset Blvd",
+          "lat": "37.760917",
+          "long": "-122.495668"
+        },
+        {
+          "id": "17219",
+          "name": "Judah/La Playa/Ocean Beach",
+          "lat": "37.760349",
+          "long": "-122.508685"
+        },
+        {
+          "id": "14506",
+          "name": "The Embarcadero & Brannan St",
+          "lat": "37.784359",
+          "long": "-122.388138"
+        },
+        {
+          "id": "15234",
+          "name": "King St & 2nd St",
+          "lat": "37.77972",
+          "long": "-122.389872"
+        },
+        {
+          "id": "16992",
+          "name": "Metro Embarcadero Station",
+          "lat": "37.793134",
+          "long": "-122.396431"
+        },
+        {
+          "id": "14509",
+          "name": "The Embarcadero & Folsom St",
+          "lat": "37.790481",
+          "long": "-122.389692"
+        },
+        {
+          "id": "15239",
+          "name": "King St & 4th St",
+          "lat": "37.776269",
+          "long": "-122.394173"
+        },
+        {
+          "id": "15216",
+          "name": "Judah St & 46th Ave",
+          "lat": "37.760392",
+          "long": "-122.506064"
+        },
+        {
+          "id": "15214",
+          "name": "Judah St & 43rd Ave",
+          "lat": "37.760518",
+          "long": "-122.502839"
+        },
+        {
+          "id": "15212",
+          "name": "Judah St & 40th Ave",
+          "lat": "37.760679",
+          "long": "-122.499154"
+        },
+        {
+          "id": "15210",
+          "name": "Judah St & 34th Ave",
+          "lat": "37.760955",
+          "long": "-122.493199"
+        },
+        {
+          "id": "15208",
+          "name": "Judah St & 31st Ave",
+          "lat": "37.761105",
+          "long": "-122.4895"
+        },
+        {
+          "id": "15206",
+          "name": "Judah St & 28th Ave",
+          "lat": "37.761232",
+          "long": "-122.486763"
+        },
+        {
+          "id": "15204",
+          "name": "Judah St & 25th Ave",
+          "lat": "37.761373",
+          "long": "-122.48356"
+        },
+        {
+          "id": "15201",
+          "name": "Judah St & 22nd Ave",
+          "lat": "37.761534",
+          "long": "-122.479855"
+        },
+        {
+          "id": "15197",
+          "name": "Judah St & 15th Ave",
+          "lat": "37.761848",
+          "long": "-122.472777"
+        },
+        {
+          "id": "15220",
+          "name": "Judah St & Funston Ave",
+          "lat": "37.76195",
+          "long": "-122.470572"
+        },
+        {
+          "id": "15196",
+          "name": "Judah St & 12th Ave",
+          "lat": "37.761988",
+          "long": "-122.469526"
+        },
+        {
+          "id": "15194",
+          "name": "Judah St & 9th Ave",
+          "lat": "37.762139",
+          "long": "-122.466312"
+        },
+        {
+          "id": "17996",
+          "name": "Irving St & 8th Ave",
+          "lat": "37.764038",
+          "long": "-122.465428"
+        },
+        {
+          "id": "18031",
+          "name": "Irving St & 5th Ave",
+          "lat": "37.764182",
+          "long": "-122.462139"
+        },
+        {
+          "id": "15124",
+          "name": "Irving St & Arguello Blvd",
+          "lat": "37.764366",
+          "long": "-122.458024"
+        },
+        {
+          "id": "13915",
+          "name": "Carl St & Stanyan St",
+          "lat": "37.765371",
+          "long": "-122.452928"
+        },
+        {
+          "id": "13911",
+          "name": "Carl St & Cole St",
+          "lat": "37.765745",
+          "long": "-122.450131"
+        },
+        {
+          "id": "17318",
+          "name": "Sunset Tunnel East Portal",
+          "lat": "37.769285",
+          "long": "-122.433511"
+        },
+        {
+          "id": "15223",
+          "name": "Judah/La Playa/Ocean Beach",
+          "lat": "37.760304",
+          "long": "-122.508181"
+        },
+        {
+          "id": "15225",
+          "name": "Judah St & Sunset Blvd",
+          "lat": "37.760845",
+          "long": "-122.495805"
+        },
+        {
+          "id": "15200",
+          "name": "Judah St & 19th Ave",
+          "lat": "37.761655",
+          "long": "-122.477194"
+        },
+        {
+          "id": "13913",
+          "name": "Carl St & Hillway Ave",
+          "lat": "37.764932",
+          "long": "-122.456512"
+        },
+        {
+          "id": "14448",
+          "name": "Duboce Ave & Church St",
+          "lat": "37.769409",
+          "long": "-122.4294"
+        },
+        {
+          "id": "15727",
+          "name": "Metro Civic Center Station/Downtn",
+          "lat": "37.779712",
+          "long": "-122.413347"
+        },
+        {
+          "id": "15417",
+          "name": "Metro Powell Station/Downtown",
+          "lat": "37.784653",
+          "long": "-122.407086"
+        },
+        {
+          "id": "15731",
+          "name": "Metro Montgomery Station/Downtown",
+          "lat": "37.789219",
+          "long": "-122.401351"
+        },
+        {
+          "id": "15419",
+          "name": "Metro Van Ness Station",
+          "lat": "37.775127",
+          "long": "-122.419252"
+        }
+      ]
+    },
+    {
+      "line": "M",
+      "name": "OCEAN VIEW",
+      "stopCount": 56,
+      "stops": [
+        {
+          "id": "16265",
+          "name": "San Jose Ave & Lakeview Ave",
+          "lat": "37.71633",
+          "long": "-122.450368"
+        },
+        {
+          "id": "16257",
+          "name": "San Jose Ave & Farallones St",
+          "lat": "37.714153",
+          "long": "-122.452148"
+        },
+        {
+          "id": "13715",
+          "name": "Broad St & Capitol Ave",
+          "lat": "37.713191",
+          "long": "-122.458921"
+        },
+        {
+          "id": "13717",
+          "name": "Broad St & Orizaba Ave",
+          "lat": "37.713178",
+          "long": "-122.462331"
+        },
+        {
+          "id": "16174",
+          "name": "Randolph St & Bright St",
+          "lat": "37.714348",
+          "long": "-122.463392"
+        },
+        {
+          "id": "16172",
+          "name": "Randolph St & Arch St",
+          "lat": "37.714342",
+          "long": "-122.466982"
+        },
+        {
+          "id": "13385",
+          "name": "19th Ave & Randolph St",
+          "lat": "37.714856",
+          "long": "-122.470249"
+        },
+        {
+          "id": "13361",
+          "name": "19th Ave & Junipero Serra Blvd",
+          "lat": "37.716889",
+          "long": "-122.472275"
+        },
+        {
+          "id": "17449",
+          "name": "19th Ave & Winston Dr",
+          "lat": "37.727195",
+          "long": "-122.474846"
+        },
+        {
+          "id": "16220",
+          "name": "Right Of Way/Eucalyptus Dr",
+          "lat": "37.730987",
+          "long": "-122.474366"
+        },
+        {
+          "id": "16224",
+          "name": "Right Of Way/Ocean Ave",
+          "lat": "37.731808",
+          "long": "-122.473815"
+        },
+        {
+          "id": "16898",
+          "name": "West Portal Ave & 14th Ave",
+          "lat": "37.737859",
+          "long": "-122.469042"
+        },
+        {
+          "id": "17164",
+          "name": "San Jose Ave & Geneva Ave",
+          "lat": "37.720631",
+          "long": "-122.446554"
+        },
+        {
+          "id": "16262",
+          "name": "San Jose Ave & Geneva Ave",
+          "lat": "37.720096",
+          "long": "-122.447196"
+        },
+        {
+          "id": "13718",
+          "name": "Broad St & Plymouth Ave",
+          "lat": "37.713222",
+          "long": "-122.455927"
+        },
+        {
+          "id": "17065",
+          "name": "19th Ave & Holloway Ave",
+          "lat": "37.721342",
+          "long": "-122.475176"
+        },
+        {
+          "id": "17109",
+          "name": "West Portal/Sloat/St Francis Circle",
+          "lat": "37.734825",
+          "long": "-122.471446"
+        },
+        {
+          "id": "16740",
+          "name": "West Portal Station",
+          "lat": "37.741518",
+          "long": "-122.465216"
+        },
+        {
+          "id": "16223",
+          "name": "Right Of Way/Ocean Ave",
+          "lat": "37.732022",
+          "long": "-122.473719"
+        },
+        {
+          "id": "16219",
+          "name": "Right Of Way/Eucalyptus Dr",
+          "lat": "37.73119",
+          "long": "-122.47435"
+        },
+        {
+          "id": "13403",
+          "name": "19th Ave & Winston Dr",
+          "lat": "37.727017",
+          "long": "-122.474937"
+        },
+        {
+          "id": "13376",
+          "name": "19th Ave & Randolph St",
+          "lat": "37.7162",
+          "long": "-122.47167"
+        },
+        {
+          "id": "13387",
+          "name": "19th Ave & Randolph St",
+          "lat": "37.714443",
+          "long": "-122.469998"
+        },
+        {
+          "id": "16173",
+          "name": "Randolph St & Arch St",
+          "lat": "37.714201",
+          "long": "-122.467218"
+        },
+        {
+          "id": "16175",
+          "name": "Randolph St & Bright St",
+          "lat": "37.71425",
+          "long": "-122.463675"
+        },
+        {
+          "id": "15825",
+          "name": "Orizaba Ave & Broad St",
+          "lat": "37.713328",
+          "long": "-122.462585"
+        },
+        {
+          "id": "13716",
+          "name": "Broad St & Capitol Ave",
+          "lat": "37.713152",
+          "long": "-122.459159"
+        },
+        {
+          "id": "16259",
+          "name": "San Jose Ave & Farallones St",
+          "lat": "37.713957",
+          "long": "-122.452281"
+        },
+        {
+          "id": "16266",
+          "name": "San Jose Ave & Lakeview Ave",
+          "lat": "37.716083",
+          "long": "-122.450435"
+        },
+        {
+          "id": "16503",
+          "name": "West Portal/Sloat/St Francis Circle",
+          "lat": "37.734807",
+          "long": "-122.471618"
+        },
+        {
+          "id": "13358",
+          "name": "19th Ave & Holloway Ave",
+          "lat": "37.721342",
+          "long": "-122.475245"
+        },
+        {
+          "id": "13719",
+          "name": "Broad St & Plymouth Ave",
+          "lat": "37.713161",
+          "long": "-122.45618"
+        },
+        {
+          "id": "16269",
+          "name": "San Jose Ave & Niagra Ave",
+          "lat": "37.719421",
+          "long": "-122.447654"
+        },
+        {
+          "id": "16994",
+          "name": "Metro Montgomery Station/Outbound",
+          "lat": "37.788791",
+          "long": "-122.402127"
+        },
+        {
+          "id": "16995",
+          "name": "Metro Powell Station/Outbound",
+          "lat": "37.7843",
+          "long": "-122.407822"
+        },
+        {
+          "id": "16997",
+          "name": "Metro Civic Center Station/Outbd",
+          "lat": "37.77924",
+          "long": "-122.414223"
+        },
+        {
+          "id": "16998",
+          "name": "Metro Church Station/Outbound",
+          "lat": "37.767327",
+          "long": "-122.429321"
+        },
+        {
+          "id": "16993",
+          "name": "Forest Hill Station Outbound",
+          "lat": "37.74817",
+          "long": "-122.459192"
+        },
+        {
+          "id": "17125",
+          "name": "West Portal Ave & 14th Ave",
+          "lat": "37.738064",
+          "long": "-122.468984"
+        },
+        {
+          "id": "14510",
+          "name": "The Embarcadero & Folsom St",
+          "lat": "37.790749",
+          "long": "-122.389841"
+        },
+        {
+          "id": "17217",
+          "name": "Metro Embarcadero Station",
+          "lat": "37.79259",
+          "long": "-122.397268"
+        },
+        {
+          "id": "16996",
+          "name": "Van Ness Station Outbound",
+          "lat": "37.775234",
+          "long": "-122.41934"
+        },
+        {
+          "id": "16991",
+          "name": "Metro Castro Station/Outbound",
+          "lat": "37.762683",
+          "long": "-122.435289"
+        },
+        {
+          "id": "16739",
+          "name": "West Portal Station",
+          "lat": "37.741391",
+          "long": "-122.46553"
+        },
+        {
+          "id": "16744",
+          "name": "Ulloa St & West Portal Ave",
+          "lat": "37.741009",
+          "long": "-122.466167"
+        },
+        {
+          "id": "15730",
+          "name": "Metro Forest Hill Station/Downtown",
+          "lat": "37.748351",
+          "long": "-122.458623"
+        },
+        {
+          "id": "15726",
+          "name": "Metro Church Station/Downtown",
+          "lat": "37.767194",
+          "long": "-122.429168"
+        },
+        {
+          "id": "15727",
+          "name": "Metro Civic Center Station/Downtn",
+          "lat": "37.779712",
+          "long": "-122.413347"
+        },
+        {
+          "id": "15417",
+          "name": "Metro Powell Station/Downtown",
+          "lat": "37.784653",
+          "long": "-122.407086"
+        },
+        {
+          "id": "15731",
+          "name": "Metro Montgomery Station/Downtown",
+          "lat": "37.789219",
+          "long": "-122.401351"
+        },
+        {
+          "id": "15728",
+          "name": "Metro Castro Station/Downtown",
+          "lat": "37.76262",
+          "long": "-122.435231"
+        },
+        {
+          "id": "15419",
+          "name": "Metro Van Ness Station",
+          "lat": "37.775127",
+          "long": "-122.419252"
+        },
+        {
+          "id": "16992",
+          "name": "Metro Embarcadero Station",
+          "lat": "37.793134",
+          "long": "-122.396431"
+        },
+        {
+          "id": "15418",
+          "name": "Balboa Park BART/Mezzanine Level",
+          "lat": "37.721809",
+          "long": "-122.447425"
+        },
+        {
+          "id": "14509",
+          "name": "The Embarcadero & Folsom St",
+          "lat": "37.790481",
+          "long": "-122.389692"
+        },
+        {
+          "id": "16738",
+          "name": "Ulloa St & Lenox Way",
+          "lat": "37.741125",
+          "long": "-122.466155"
+        }
+      ]
+    },
+    {
+      "line": "J",
+      "name": "CHURCH",
+      "stopCount": 48,
+      "stops": [
+        {
+          "id": "16275",
+          "name": "San Jose Ave & Ocean Ave",
+          "lat": "37.722862",
+          "long": "-122.44479"
+        },
+        {
+          "id": "16288",
+          "name": "San Jose Ave & Santa Ynez Ave",
+          "lat": "37.725681",
+          "long": "-122.442442"
+        },
+        {
+          "id": "16284",
+          "name": "San Jose Ave & Santa Rosa Ave",
+          "lat": "37.728991",
+          "long": "-122.439922"
+        },
+        {
+          "id": "14787",
+          "name": "San Jose Ave/Glen Park Station",
+          "lat": "37.732525",
+          "long": "-122.433416"
+        },
+        {
+          "id": "16277",
+          "name": "San Jose Ave & Randall St",
+          "lat": "37.739741",
+          "long": "-122.424157"
+        },
+        {
+          "id": "13537",
+          "name": "30th St & Dolores St",
+          "lat": "37.742304",
+          "long": "-122.424026"
+        },
+        {
+          "id": "13999",
+          "name": "Church St & 29th St",
+          "lat": "37.743587",
+          "long": "-122.426585"
+        },
+        {
+          "id": "13998",
+          "name": "Church St & 27th St"
+        },
+        {
+          "id": "14003",
+          "name": "Church St & Clipper St"
+        },
+        {
+          "id": "13994",
+          "name": "Church St & 22nd St",
+          "lat": "37.754741",
+          "long": "-122.427636"
+        },
+        {
+          "id": "16217",
+          "name": "Right Of Way/21st St",
+          "lat": "37.756436",
+          "long": "-122.426822"
+        },
+        {
+          "id": "16222",
+          "name": "Right Of Way/Liberty St",
+          "lat": "37.757239",
+          "long": "-122.426867"
+        },
+        {
+          "id": "16215",
+          "name": "Right Of Way/20th St",
+          "lat": "37.758229",
+          "long": "-122.427795"
+        },
+        {
+          "id": "16213",
+          "name": "Right Of Way/18th St",
+          "lat": "37.761192",
+          "long": "-122.428184"
+        },
+        {
+          "id": "13985",
+          "name": "Church St & 16th St",
+          "lat": "37.764382",
+          "long": "-122.428609"
+        },
+        {
+          "id": "17073",
+          "name": "Church St & Market St",
+          "lat": "37.767509",
+          "long": "-122.428927"
+        },
+        {
+          "id": "17778",
+          "name": "San Jose Ave & Geneva Ave",
+          "lat": "37.721238",
+          "long": "-122.446222"
+        },
+        {
+          "id": "14000",
+          "name": "Church St & 30th St",
+          "lat": "37.742222",
+          "long": "-122.426459"
+        },
+        {
+          "id": "13996",
+          "name": "Church St & 24th St",
+          "lat": "37.751591",
+          "long": "-122.42735"
+        },
+        {
+          "id": "14006",
+          "name": "Church St & Duboce Ave",
+          "lat": "37.769302",
+          "long": "-122.429087"
+        },
+        {
+          "id": "18059",
+          "name": "Church St & Market St",
+          "lat": "37.767286",
+          "long": "-122.429053"
+        },
+        {
+          "id": "13984",
+          "name": "Church St & 16th St",
+          "lat": "37.764621",
+          "long": "-122.428722"
+        },
+        {
+          "id": "13987",
+          "name": "Church St & 18th St",
+          "lat": "37.761467",
+          "long": "-122.428416"
+        },
+        {
+          "id": "16214",
+          "name": "Right Of Way/20th St",
+          "lat": "37.758264",
+          "long": "-122.427924"
+        },
+        {
+          "id": "16221",
+          "name": "Right Of Way/Liberty St",
+          "lat": "37.757451",
+          "long": "-122.426999"
+        },
+        {
+          "id": "16216",
+          "name": "Right Of Way/21st St",
+          "lat": "37.756643",
+          "long": "-122.426922"
+        },
+        {
+          "id": "16218",
+          "name": "Church St & 22nd St",
+          "lat": "37.754607",
+          "long": "-122.42775"
+        },
+        {
+          "id": "14002",
+          "name": "Church St & Clipper St"
+        },
+        {
+          "id": "13997",
+          "name": "Church St & 27th St"
+        },
+        {
+          "id": "13538",
+          "name": "30th St & Dolores St",
+          "lat": "37.74217",
+          "long": "-122.424457"
+        },
+        {
+          "id": "16280",
+          "name": "San Jose Ave & Randall St",
+          "lat": "37.739385",
+          "long": "-122.42432"
+        },
+        {
+          "id": "14788",
+          "name": "San Jose Ave/Glen Park Station",
+          "lat": "37.732401",
+          "long": "-122.433855"
+        },
+        {
+          "id": "16285",
+          "name": "San Jose Ave & Santa Rosa Ave",
+          "lat": "37.728996",
+          "long": "-122.440016"
+        },
+        {
+          "id": "16287",
+          "name": "San Jose Ave & Santa Ynez Ave",
+          "lat": "37.725877",
+          "long": "-122.442359"
+        },
+        {
+          "id": "16274",
+          "name": "San Jose Ave & Ocean Ave",
+          "lat": "37.723085",
+          "long": "-122.444699"
+        },
+        {
+          "id": "13995",
+          "name": "Church St & 24th St",
+          "lat": "37.7518",
+          "long": "-122.427497"
+        },
+        {
+          "id": "14004",
+          "name": "Church St & Day St",
+          "lat": "37.742811",
+          "long": "-122.426654"
+        },
+        {
+          "id": "15418",
+          "name": "Balboa Park BART/Mezzanine Level",
+          "lat": "37.721809",
+          "long": "-122.447425"
+        },
+        {
+          "id": "15727",
+          "name": "Metro Civic Center Station/Downtn",
+          "lat": "37.779712",
+          "long": "-122.413347"
+        },
+        {
+          "id": "15417",
+          "name": "Metro Powell Station/Downtown",
+          "lat": "37.784653",
+          "long": "-122.407086"
+        },
+        {
+          "id": "15731",
+          "name": "Metro Montgomery Station/Downtown",
+          "lat": "37.789219",
+          "long": "-122.401351"
+        },
+        {
+          "id": "15419",
+          "name": "Metro Van Ness Station",
+          "lat": "37.775127",
+          "long": "-122.419252"
+        },
+        {
+          "id": "16992",
+          "name": "Metro Embarcadero Station",
+          "lat": "37.793134",
+          "long": "-122.396431"
+        },
+        {
+          "id": "16994",
+          "name": "Metro Montgomery Station/Outbound",
+          "lat": "37.788791",
+          "long": "-122.402127"
+        },
+        {
+          "id": "16995",
+          "name": "Metro Powell Station/Outbound",
+          "lat": "37.7843",
+          "long": "-122.407822"
+        },
+        {
+          "id": "16997",
+          "name": "Metro Civic Center Station/Outbd",
+          "lat": "37.77924",
+          "long": "-122.414223"
+        },
+        {
+          "id": "17217",
+          "name": "Metro Embarcadero Station",
+          "lat": "37.79259",
+          "long": "-122.397268"
+        },
+        {
+          "id": "16996",
+          "name": "Van Ness Station Outbound",
+          "lat": "37.775234",
+          "long": "-122.41934"
+        }
+      ]
+    },
+    {
+      "line": "T",
+      "name": "THIRD",
+      "stopCount": 43,
+      "stops": [
+        {
+          "id": "17365",
+          "name": "Third Street & Evans Ave",
+          "lat": "37.742727",
+          "long": "-122.388034"
+        },
+        {
+          "id": "17390",
+          "name": "Third Street/Hudson/Innes",
+          "lat": "37.739934",
+          "long": "-122.38893"
+        },
+        {
+          "id": "17391",
+          "name": "Third Street/Kirkwood/La Salle",
+          "lat": "37.73765",
+          "long": "-122.389734"
+        },
+        {
+          "id": "17393",
+          "name": "Third Street/Revere/Shafter",
+          "lat": "37.732289",
+          "long": "-122.391605"
+        },
+        {
+          "id": "17346",
+          "name": "Third Street & Williams Ave",
+          "lat": "37.729211",
+          "long": "-122.392684"
+        },
+        {
+          "id": "17344",
+          "name": "Third Street & Carroll Ave",
+          "lat": "37.725241",
+          "long": "-122.394394"
+        },
+        {
+          "id": "17394",
+          "name": "Third Street & Le Conte Ave",
+          "lat": "37.71864",
+          "long": "-122.397697"
+        },
+        {
+          "id": "17395",
+          "name": "Bayshore Blvd & Blanken Ave",
+          "lat": "37.712253",
+          "long": "-122.402316"
+        },
+        {
+          "id": "17364",
+          "name": "Third Street & Marin St",
+          "lat": "37.749097",
+          "long": "-122.387525"
+        },
+        {
+          "id": "17392",
+          "name": "Third Street/Oakdale/Palou",
+          "lat": "37.73435",
+          "long": "-122.390893"
+        },
+        {
+          "id": "17342",
+          "name": "Third Street/Gilman/Paul",
+          "lat": "37.722199",
+          "long": "-122.395782"
+        },
+        {
+          "id": "17396",
+          "name": "Bayshore Blvd & Sunnydale Ave",
+          "lat": "37.70897",
+          "long": "-122.405113"
+        },
+        {
+          "id": "17359",
+          "name": "Third Street & Mission Rock St",
+          "lat": "37.772832",
+          "long": "-122.389717"
+        },
+        {
+          "id": "17360",
+          "name": "Ucsf / Chase Center (16th Street)",
+          "lat": "37.768237",
+          "long": "-122.389366"
+        },
+        {
+          "id": "17361",
+          "name": "Ucsf Medical Center (Mariposa)",
+          "lat": "37.764239",
+          "long": "-122.388865"
+        },
+        {
+          "id": "17363",
+          "name": "Third Street & 23rd St",
+          "lat": "37.755263",
+          "long": "-122.388047"
+        },
+        {
+          "id": "17397",
+          "name": "4th St & King St",
+          "lat": "37.776135",
+          "long": "-122.393829"
+        },
+        {
+          "id": "17362",
+          "name": "Third Street & 20th St",
+          "lat": "37.760367",
+          "long": "-122.388593"
+        },
+        {
+          "id": "17354",
+          "name": "Third Street & 23rd St",
+          "lat": "37.755414",
+          "long": "-122.388001"
+        },
+        {
+          "id": "17356",
+          "name": "Ucsf Medical Center (Mariposa)",
+          "lat": "37.764391",
+          "long": "-122.388853"
+        },
+        {
+          "id": "17357",
+          "name": "Ucsf / Chase Center (16th St)",
+          "lat": "37.768504",
+          "long": "-122.389182"
+        },
+        {
+          "id": "17358",
+          "name": "Third Street & Mission Rock St",
+          "lat": "37.772984",
+          "long": "-122.389683"
+        },
+        {
+          "id": "17355",
+          "name": "Third Street & 20th St",
+          "lat": "37.760518",
+          "long": "-122.388558"
+        },
+        {
+          "id": "17166",
+          "name": "4th St & King St",
+          "lat": "37.776278",
+          "long": "-122.393864"
+        },
+        {
+          "id": "17879",
+          "name": "Fourth Street & Brannan Northbound",
+          "lat": "37.778403",
+          "long": "-122.39659"
+        },
+        {
+          "id": "17878",
+          "name": "Yerba Buena/Moscone Station Northbound",
+          "lat": "37.782358",
+          "long": "-122.401551"
+        },
+        {
+          "id": "17877",
+          "name": "Union Square/Market St Station Northbound",
+          "lat": "37.787151",
+          "long": "-122.406477"
+        },
+        {
+          "id": "17876",
+          "name": "Chinatown - Rose Pak Station",
+          "lat": "37.794807",
+          "long": "-122.408078"
+        },
+        {
+          "id": "17399",
+          "name": "Bayshore Blvd & Areta Ave",
+          "lat": "37.712226",
+          "long": "-122.402339"
+        },
+        {
+          "id": "17400",
+          "name": "Third Street & Le Conte Ave",
+          "lat": "37.718809",
+          "long": "-122.397468"
+        },
+        {
+          "id": "17343",
+          "name": "Third Street & Carroll Ave",
+          "lat": "37.725491",
+          "long": "-122.394222"
+        },
+        {
+          "id": "17345",
+          "name": "Third Street & Williams Ave",
+          "lat": "37.729291",
+          "long": "-122.392604"
+        },
+        {
+          "id": "17401",
+          "name": "Third Street/Revere/Shafter",
+          "lat": "37.732262",
+          "long": "-122.391502"
+        },
+        {
+          "id": "17403",
+          "name": "Third Street/Kirkwood/La Salle",
+          "lat": "37.737641",
+          "long": "-122.389688"
+        },
+        {
+          "id": "17404",
+          "name": "Third Street/Hudson/Innes",
+          "lat": "37.739916",
+          "long": "-122.388884"
+        },
+        {
+          "id": "17352",
+          "name": "Third Street & Evans Ave",
+          "lat": "37.742726",
+          "long": "-122.38792"
+        },
+        {
+          "id": "17398",
+          "name": "Bayshore Blvd & Sunnydale Ave",
+          "lat": "37.708944",
+          "long": "-122.405044"
+        },
+        {
+          "id": "17347",
+          "name": "Third Street/Gilman/Paul",
+          "lat": "37.722449",
+          "long": "-122.39561"
+        },
+        {
+          "id": "17402",
+          "name": "Third Street/Oakdale/Palou",
+          "lat": "37.734358",
+          "long": "-122.390836"
+        },
+        {
+          "id": "17353",
+          "name": "Third Street & Marin St",
+          "lat": "37.748999",
+          "long": "-122.387445"
+        },
+        {
+          "id": "17874",
+          "name": "Union Square/Market St Station Southbound",
+          "lat": "37.787133",
+          "long": "-122.406523"
+        },
+        {
+          "id": "17873",
+          "name": "Yerba Buena/Moscone Station Southbound",
+          "lat": "37.782161",
+          "long": "-122.401551"
+        },
+        {
+          "id": "17872",
+          "name": "4th & Brannan Southbound",
+          "lat": "37.778341",
+          "long": "-122.396613"
+        }
+      ]
+    }
+  ]
+}

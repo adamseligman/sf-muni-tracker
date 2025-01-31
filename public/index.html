@@ -1,0 +1,113 @@
+<!--
+Copyright (c) 2024 Adam Seligman
+
+This source code is licensed under the MIT license found in the
+LICENSE file in the root directory of this source tree.
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>SF Muni Train Tracker</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-container">
+    <div class="info-panel">
+    <!-- Top header bar -->
+    <div class="top-bar">
+      <div class="main-destination">
+        <h1 class="main-route-name">SF Muni Metro</h1>
+        <div class="secondary-destination">Live Train Tracker</div>
+      </div>
+      <div class="last-updated">
+        Last Updated: <span id="update-time">--:--</span>
+      </div>
+    </div>
+    
+    <!-- Arrivals container -->
+    <div class="arrivals-container">
+      <!-- Inbound -->
+      <div class="direction-box inbound">
+        <h2>Inbound</h2>
+        <div class="stop-details">
+          <div class="stop-info clickable" id="inbound-stop">Select Stop</div>
+          <div class="stop-location" id="inbound-location">Click to choose stop</div>
+        </div>
+        <div class="predictions" id="inbound-predictions">
+          <div class="loading">Select a stop to view predictions</div>
+        </div>
+      </div>
+
+      <!-- Outbound -->
+      <div class="direction-box outbound">
+        <h2>Outbound</h2>
+        <div class="stop-details">
+          <div class="stop-info clickable" id="outbound-stop">Select Stop</div>
+          <div class="stop-location" id="outbound-location">Click to choose stop</div>
+        </div>
+        <div class="predictions" id="outbound-predictions">
+          <div class="loading">Select a stop to view predictions</div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Weather Container -->
+    <div class="weather-container">
+      <div class="weather-box">
+        <h2>Weather</h2>
+        <div class="weather-content">
+          <div class="weather-icon">
+            <i id="weather-icon" class="wi"></i>
+          </div>
+          <div class="weather-info">
+            <div class="current-temp">Temperature: <span id="current-temp">--°F</span></div>
+            <div class="current-conditions">Conditions: <span id="current-conditions">--</span></div>
+            <div class="forecast">Forecast: <span id="forecast">--</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Train Line Selector -->
+    <div class="train-line-selector">
+      <h2>Select Train Lines</h2>
+      <div id="train-line-buttons" class="train-line-buttons">
+        <!-- Train line buttons will be dynamically added here -->
+      </div>
+    </div>
+    
+    </div>
+    <div id="map" class="map-container"></div>
+  </div>
+
+  <!-- Stop Selection Modal -->
+  <div id="stop-modal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <h2>Change Stop</h2>
+      <div class="modal-body">
+        <div class="input-group">
+          <label for="stop-id">Enter Stop ID:</label>
+          <input type="text" id="stop-id" placeholder="Enter stop ID">
+        </div>
+        <div id="stop-validation" class="validation-message"></div>
+        <div class="modal-buttons">
+          <button id="validate-stop">Validate</button>
+          <button id="save-stop" disabled>Save</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Weather Icons CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css">
+  
+  <!-- Mapbox GL JS -->
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='stylesheet' />
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
+
+  <script src="script.js"></script>
+</body>
+</html>
